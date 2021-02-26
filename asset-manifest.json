@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/cs185-prReact/static/css/main.1eeaff67.chunk.css",
+    "main.js": "/cs185-prReact/static/js/main.fa91957a.chunk.js",
+    "main.js.map": "/cs185-prReact/static/js/main.fa91957a.chunk.js.map",
+    "runtime-main.js": "/cs185-prReact/static/js/runtime-main.7a8d4f58.js",
+    "runtime-main.js.map": "/cs185-prReact/static/js/runtime-main.7a8d4f58.js.map",
+    "static/js/2.e2fc991f.chunk.js": "/cs185-prReact/static/js/2.e2fc991f.chunk.js",
+    "static/js/2.e2fc991f.chunk.js.map": "/cs185-prReact/static/js/2.e2fc991f.chunk.js.map",
+    "static/js/3.4d4b10b8.chunk.js": "/cs185-prReact/static/js/3.4d4b10b8.chunk.js",
+    "static/js/3.4d4b10b8.chunk.js.map": "/cs185-prReact/static/js/3.4d4b10b8.chunk.js.map",
+    "index.html": "/cs185-prReact/index.html",
+    "static/css/main.1eeaff67.chunk.css.map": "/cs185-prReact/static/css/main.1eeaff67.chunk.css.map",
+    "static/js/2.e2fc991f.chunk.js.LICENSE.txt": "/cs185-prReact/static/js/2.e2fc991f.chunk.js.LICENSE.txt",
+    "static/media/dbcooper.6f9bab0c.jpg": "/cs185-prReact/static/media/dbcooper.6f9bab0c.jpg",
+    "static/media/ferris-wheel.9a5adff1.png": "/cs185-prReact/static/media/ferris-wheel.9a5adff1.png",
+    "static/media/history.dce76e00.jpg": "/cs185-prReact/static/media/history.dce76e00.jpg",
+    "static/media/japan1.a8ccc9a1.png": "/cs185-prReact/static/media/japan1.a8ccc9a1.png",
+    "static/media/japan2.5c67116c.png": "/cs185-prReact/static/media/japan2.5c67116c.png",
+    "static/media/night1.f3cfe50b.png": "/cs185-prReact/static/media/night1.f3cfe50b.png",
+    "static/media/night2.c4e71002.png": "/cs185-prReact/static/media/night2.c4e71002.png",
+    "static/media/rain.066fa347.png": "/cs185-prReact/static/media/rain.066fa347.png",
+    "static/media/seashanty.94c8c2cc.jpg": "/cs185-prReact/static/media/seashanty.94c8c2cc.jpg",
+    "static/media/skyscrapers.090bf071.png": "/cs185-prReact/static/media/skyscrapers.090bf071.png",
+    "static/media/tasbot.6e2c0c39.jpg": "/cs185-prReact/static/media/tasbot.6e2c0c39.jpg",
+    "static/media/train.d988cf5a.png": "/cs185-prReact/static/media/train.d988cf5a.png",
+    "static/media/wynncraft.ddba95d8.jpg": "/cs185-prReact/static/media/wynncraft.ddba95d8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a8d4f58.js",
+    "static/js/2.e2fc991f.chunk.js",
+    "static/css/main.1eeaff67.chunk.css",
+    "static/js/main.fa91957a.chunk.js"
+  ]
+}
