@@ -1,0 +1,71 @@
+.imageDiv {
+    float: left;
+    width: 24%;
+    padding: 0.4%;
+}
+
+.imageDiv img {
+    width: 100%;
+    padding: 0.7%;
+    border-style: groove;
+    border-color: #888888;
+    border-width: 2px;
+    cursor: pointer;
+}
+
+#imageOverlay {
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 5;
+}
+
+#overlayImage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: solid;
+    border-color: #bbbbbb;
+    width: 50%;
+    height: 66%;
+    z-index: 10;
+    min-height: 200px;
+}
+
+/* Responsiveness for images */
+@media only screen and (max-width: 1350px) {
+    .imageDiv {
+        width: 32%;
+    }
+
+    #overlayImage {
+        width: 60%;
+        height: 50%;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .imageDiv {
+        width: 49%;
+    }
+
+    #overlayImage {
+        width: 70%;
+        height: 40%;
+    }
+}
+
+@media only screen and (max-width: 525px) {
+    .imageDiv {
+        width: 99%;
+    }
+
+    #overlayImage {
+        width: 80%;
+        height: 30%;
+    }
+}
